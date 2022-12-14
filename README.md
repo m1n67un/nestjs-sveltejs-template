@@ -13,7 +13,7 @@ $ npm i
 
 ### 빌드
 ``` sh
-$ npm build
+$ npm run build
 ```
 
 ### 프로젝트 실행
